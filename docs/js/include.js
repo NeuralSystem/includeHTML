@@ -32,9 +32,9 @@ include('js/jquery.equalheights.js');
 
 
 /* Smooth scrolling
- ========================================================*/
-include('/wheel/jquery.mousewheel.min.js');
-include('js/jquery.simplr.smoothscroll.min.js');
+ ========================================================
+include('wheel/jquery.mousewheel.min.js');
+include('js/jquery.simplr.smoothscroll.min.js');*/
 
 /* Superfish menu
  ========================================================*/
