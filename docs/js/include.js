@@ -39,7 +39,6 @@ include('js/jquery.simplr.smoothscroll.min.js');*/
 /* Superfish menu
  ========================================================*/
 include('js/superfish.js');
-include('js/jquery.unveil.js');
 include('js/jquery.mobilemenu.js');
 
 /* Custom script
