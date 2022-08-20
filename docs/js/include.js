@@ -6,6 +6,7 @@ window.include = function(url){
 
 /* core.JS
  ========================================================*/
+include('includeHTML/js/includeHTML.js');
 include('slick/slick/slick.min.js');
 include('sequence/js/svginnerhtml.min.js');
 include('sequence/js/snap.svg-min.js');
