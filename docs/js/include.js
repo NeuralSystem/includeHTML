@@ -25,7 +25,7 @@ include('js/device.min.js');
 include('js/tmstickup.js');
 
 /* Easing library
- ========================================================
+ ========================================================*/
 include('js/jquery.ui.totop.js');
 include('js/jquery.easing.1.3.js');
 include('js/jquery.equalheights.js');
