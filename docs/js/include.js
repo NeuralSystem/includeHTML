@@ -45,7 +45,6 @@ include('js/jquery.mobilemenu.js');
  ========================================================*/
 include('js/legacy.js');
 include('js/camera.js');
-include('js/flatdoc.js');
 include('js/isotope.min.js');
 include('js/owl.carousel.js');
 include('js/function.js');
