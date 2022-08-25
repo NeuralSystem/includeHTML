@@ -14,17 +14,15 @@ include('flowchart/raphael-min.js');
 include('route/d3.min.js');
 include('cards/widget.js');
 
-/* cookie.JS
- ========================================================*/
-include('js/jquery.cookie.js');
-include('js/jquery-migrate-1.2.1.js');
-
-/* Easing library
+/* library
  ========================================================*/
 include('js/device.min.js');
+include('js/bootstrap.min.js');
+include('js/jquery.cookie.js');
 include('js/jquery.ui.totop.js');
 include('js/jquery.easing.1.3.js');
 include('js/jquery.equalheights.js');
+include('js/jquery-migrate-1.2.1.js');
 
 
 /* Smooth scrolling
