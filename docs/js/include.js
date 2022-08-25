@@ -19,13 +19,9 @@ include('cards/widget.js');
 include('js/jquery.cookie.js');
 include('js/jquery-migrate-1.2.1.js');
 
-/* device JS
- ========================================================*/
-include('js/device.min.js');
-include('js/tmstickup.js');
-
 /* Easing library
  ========================================================*/
+include('js/device.min.js');
 include('js/jquery.ui.totop.js');
 include('js/jquery.easing.1.3.js');
 include('js/jquery.equalheights.js');
