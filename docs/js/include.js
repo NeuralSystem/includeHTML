@@ -17,7 +17,6 @@ include('cards/widget.js');
 /* library
  ========================================================*/
 include('js/device.min.js');
-include('js/bootstrap.min.js');
 include('js/jquery.cookie.js');
 include('js/jquery.ui.totop.js');
 include('js/jquery.easing.1.3.js');
