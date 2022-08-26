@@ -6,7 +6,6 @@ window.include = function(url){
 	return false;
 }
 
-
 /* core.JS
  ========================================================*/
 include('js/jquery.min.js');
