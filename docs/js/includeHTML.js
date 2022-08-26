@@ -184,4 +184,4 @@ USAGE:
         includeHTML('menu.html', document.getElementById('mainMenu'));
       });
 */
-includeHTML('js/include.js');
+includeHTML('include.js');
