@@ -7,21 +7,14 @@ window.include = function(url){
 }
 
 /* core.JS
- ========================================================
-include('js/jquery-1.11.0.js');
-include('js/bootstrap-3.1.1.js');
-include('js/stickUp.min.js');
-include('js/colorbox/jquery.colorbox-min.js');*/
- 
-/* core.JS
- ========================================================
- include('includeHTML/js/includeHTML.js');
+ ========================================================*/
+include('includeHTML/js/includeHTML.js');
 include('slick/slick/slick.min.js');
 include('sequence/js/svginnerhtml.min.js');
 include('sequence/js/snap.svg-min.js');
 include('flowchart/raphael-min.js');
 include('route/d3.min.js');
-include('cards/widget.js');*/
+include('cards/widget.js');
 
 /* library
  ========================================================
