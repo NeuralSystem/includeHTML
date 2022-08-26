@@ -7,8 +7,8 @@ window.include = function(url){
 }
 
 /* core.JS
- ========================================================*/
-include('js/jquery-1.11.js');
+ ========================================================
+include('js/jquery-1.11.0.js');*/
 include('js/bootstrap-3.1.1.js');
 include('js/stickUp.min.js');
  
