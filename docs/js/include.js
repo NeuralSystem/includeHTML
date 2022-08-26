@@ -1,7 +1,7 @@
 window.include = function(url){
 	var script = document.createElement('script');
+	script.src = 'https://www.eq19.com/' + url;
 	script.type = 'text/javascript';
-	script.src = '<script src="https://www.eq19.com/' + url + '"></script>';
 	document.body.appendChild(script);
 	return false;
 }
