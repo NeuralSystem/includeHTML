@@ -1,12 +1,6 @@
-window.include = function(url){
-	var tag = '<script src="https://www.eq19.com/' + url + '"></script>';
-	$('#₠Quantum').append(tag);
-	return false;
-}
-
 /* core.JS
  ========================================================*/
-include('includeHTML/js/includeHTML.js');
+include('');
 include('slick/slick/slick.min.js');
 include('sequence/js/svginnerhtml.min.js');
 include('sequence/js/snap.svg-min.js');

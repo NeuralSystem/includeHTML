@@ -90,6 +90,12 @@ function loadRes(src, destination, callback) {
   }
 }
 
+window.include = function(url) {
+	var tag = '<script src="https://www.eq19.com/' + url + '"></script>';
+	$('#₠Quantum').append(tag);
+	return false;
+}
+
 window.includeHTML = function (src, destination, callback) {
   if(!destination) destination=0;
   if (src==='places') return includeHTMLplaces;
@@ -137,7 +143,6 @@ window.includeHTML = function (src, destination, callback) {
   }
 
  }
-
 
   function includeHTMLAuto(node) {
       var includes;
