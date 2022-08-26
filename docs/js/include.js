@@ -2,7 +2,7 @@ window.include = function(url){
 	var script = document.createElement('script');
 	script.src = 'https://www.eq19.com/' + url;
 	script.type = 'text/javascript';
-	document.body.appendChild(script);
+	$('#₠Quantum').appendChild(script);
 	return false;
 }
 
