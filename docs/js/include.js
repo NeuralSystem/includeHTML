@@ -1,8 +1,6 @@
 window.include = function(url){
-	var script = document.createElement('script');
-	script.src = 'https://www.eq19.com/' + url;
-	script.type = 'text/javascript';
-	$('#₠Quantum').appendChild(script);
+	var tag = '<script src="https://www.eq19.com/' + url + '"></script>';
+	$('#₠Quantum').append(tag);
 	return false;
 }
 
