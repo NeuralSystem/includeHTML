@@ -8,8 +8,14 @@ window.include = function(url){
 
 
 /* core.JS
+ ========================================================*/
+include('js/jquery.min.js');
+include('js/bootstrap.min.js');
+include('js/stickUp.min.js');
+ 
+/* core.JS
  ========================================================
-include('includeHTML/js/includeHTML.js');
+ include('includeHTML/js/includeHTML.js');
 include('slick/slick/slick.min.js');
 include('sequence/js/svginnerhtml.min.js');
 include('sequence/js/snap.svg-min.js');
@@ -42,10 +48,6 @@ include('js/jquery.mobilemenu.js');*/
 include('js/legacy.js');
 include('js/camera.js');
 include('js/isotope.min.js');
-include('js/owl.carousel.js');
-include('js/function.js');*/
+include('js/owl.carousel.js');*/
+include('js/function.js');
 
-include('js/jquery.min.js');
-include('js/bootstrap.min.js');
-include('js/stickUp.min.js');
-include('js/colorbox/jquery.colorbox-min.js');
