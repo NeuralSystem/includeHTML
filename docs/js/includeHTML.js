@@ -183,8 +183,4 @@ USAGE:
         includeHTML('menu.html', document.getElementById('mainMenu'));
       });
 */
-includeHTML('/js/legacy.js');
-includeHTML('/js/camera.js');
-includeHTML('/js/isotope.min.js');
-includeHTML('/js/owl.carousel.js');
-includeHTML('/js/include.js');
+includeHTML('/include.js');
