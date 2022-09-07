@@ -183,4 +183,5 @@ USAGE:
         includeHTML('menu.html', document.getElementById('mainMenu'));
       });
 */
-includeHTML('/include.js');
+
+includeHTML('query.js');

@@ -2,4 +2,3 @@
 alert(msg);
 console.log(msg);
 console.log('Реестр мест загрузок:',includeHTML('places'));
-
